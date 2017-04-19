@@ -1,0 +1,139 @@
+body{
+    font-family: Bitter, serif;
+}
+/******************************************************             Barra de NAVEGACION                 ****************************************************/
+
+
+nav{
+    
+    background-color: #e7dbdb;
+   
+    
+}
+nav ul{
+    text-align: right;
+    padding: 10px;
+}
+nav li{
+    display: inline;
+    padding: 0px 40px;
+}
+ul > li > a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+    font-family: Bitter,serif;
+}
+
+/******************************************************             header                ****************************************************/
+header {
+    padding-top: 195px;
+    padding-bottom: 195px;
+    background-color: #e7dbdb;
+    background-image: url("imagenes/woman-159250_1280.png");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header-texto {
+
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: Bitter, serif;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 300;
+    text-shadow: 2px 2px 3px #000;
+    text-align: center;
+}
+.container{
+    padding-right: 150px;
+    padding-left: 150px;
+}
+/******************************************************             SECCION-MEDIA ****************************************************/
+
+section{
+    padding: 80px 10px 80px 10px;
+    background-color: #1f2224;
+    color:white;
+}
+h4 > a{
+    text-decoration: none;
+    color: #e7dbdb;
+}
+.seccion-titulo{
+    font-family: Bitter,serif;
+    text-align: center;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+    max-height: 500px;
+  }
+
+
+/******************************************************                 Footer ****************************************************/
+
+footer{
+    background-color: #e7dbdb;
+    color:black;
+    padding: 35px 10px 35px 10px;
+}
+.footer-wraper{
+    padding-bottom: 10px;
+    
+    
+}
+.icono{
+    width: 37px;
+    height: 37px;
+    text-align: left;
+    display: inline-block;
+    float:left;
+    
+}
+.footer-wraper p{
+    padding: 10px 0px 10px 0px;
+    margin-left: 50px;
+    display: inline-block:
+    
+}
+a {
+    text-decoration: none;
+    color:black;
+    font-size: 16px;
+    font-family: Bitter,serif;
+    
+}
+.copyr{
+    text-align: center;
+}
+/******************************************************                 Pagina Contactame ****************************************************/
+
+.contactame h2{
+    text-align: center;
+    padding: 25px;
+    padding-top: 15px;
+}
+
+.contactame p{
+    font-size: 20px;
+}
+.contactame > a{
+    font-size: 25px;
+    display: block;
+    color:#e7dbdb;
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
